@@ -1,0 +1,82 @@
+body{
+    background-color: hsl(30, 38%, 92%)
+}
+img{
+    width: 300px;
+    margin-left: -300px;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;    
+}
+div{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    margin-left: 700px;
+    margin-top: 150px;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    
+
+    
+}
+p{
+    margin-top: -420px;
+    margin-left: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+
+}
+h1{
+    margin-left: 30px;
+    font-family: "Fraunces", serif;
+    color: hsl(212, 21%, 14%);
+}
+.p_2{
+    margin-top: 10px;
+}
+.h_2{
+    color: hsl(158, 36%, 37%);
+    
+}
+.p_3{
+    color: hsl(228, 12%, 48%);
+    margin-left: 180px;
+    margin-top: -50px;
+    text-decoration: line-through;
+}
+ 
+    .mesame_divi {
+        margin-left: 725px;
+        background-color:  hsl(158, 36%, 37%);
+        height: 50px;
+        width: 230px;
+        margin-top: -70px;
+        border-radius: 10px;
+    }
+    
+    
+    .p10 {
+        padding-left: 50px;
+        margin-top: -20px;
+        color: hsl(0, 0%, 100%);
+        font-family: "Montserrat", sans-serif
+    }
+    
+    
+    svg {
+        padding-top: 15px;
+        padding-left: 55px;
+    }
+    
+    
+    img {
+        border-radius: 10px 0px 0px 10px;
+    }
+    
+
+  
+    
+   
+    
+
